@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\bin\Debug\net6.0\ArrayAB104.exe
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\bin\Debug\net6.0\ArrayAB104.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\bin\Debug\net6.0\ArrayAB104.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\bin\Debug\net6.0\ArrayAB104.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\bin\Debug\net6.0\ArrayAB104.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\obj\Debug\net6.0\ArrayAB104.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\obj\Debug\net6.0\ArrayAB104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\obj\Debug\net6.0\ArrayAB104.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\obj\Debug\net6.0\ArrayAB104.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\obj\Debug\net6.0\ArrayAB104.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\obj\Debug\net6.0\ArrayAB104.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\obj\Debug\net6.0\refint\ArrayAB104.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\obj\Debug\net6.0\ArrayAB104.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\obj\Debug\net6.0\ArrayAB104.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayAB104\ArrayAB104\obj\Debug\net6.0\ref\ArrayAB104.dll
