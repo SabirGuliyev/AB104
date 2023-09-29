@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\bin\Debug\net6.0\SearchingAndSortingAlgo.exe
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\bin\Debug\net6.0\SearchingAndSortingAlgo.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\bin\Debug\net6.0\SearchingAndSortingAlgo.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\bin\Debug\net6.0\SearchingAndSortingAlgo.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\bin\Debug\net6.0\SearchingAndSortingAlgo.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\obj\Debug\net6.0\SearchingAndSortingAlgo.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\obj\Debug\net6.0\SearchingAndSortingAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\obj\Debug\net6.0\SearchingAndSortingAlgo.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\obj\Debug\net6.0\SearchingAndSortingAlgo.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\obj\Debug\net6.0\SearchingAndSortingAlgo.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\obj\Debug\net6.0\SearchingAndSortingAlgo.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\obj\Debug\net6.0\refint\SearchingAndSortingAlgo.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\obj\Debug\net6.0\SearchingAndSortingAlgo.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\obj\Debug\net6.0\SearchingAndSortingAlgo.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgo\SearchingAndSortingAlgo\obj\Debug\net6.0\ref\SearchingAndSortingAlgo.dll
