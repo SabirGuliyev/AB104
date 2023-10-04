@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\bin\Debug\net6.0\MethodExamples.exe
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\bin\Debug\net6.0\MethodExamples.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\bin\Debug\net6.0\MethodExamples.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\bin\Debug\net6.0\MethodExamples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\bin\Debug\net6.0\MethodExamples.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\obj\Debug\net6.0\refint\MethodExamples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\obj\Debug\net6.0\MethodExamples.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamples\MethodExamples\obj\Debug\net6.0\ref\MethodExamples.dll
