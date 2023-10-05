@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\bin\Debug\net6.0\RefOutAB104.exe
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\bin\Debug\net6.0\RefOutAB104.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\bin\Debug\net6.0\RefOutAB104.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\bin\Debug\net6.0\RefOutAB104.dll
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\bin\Debug\net6.0\RefOutAB104.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\obj\Debug\net6.0\RefOutAB104.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\obj\Debug\net6.0\RefOutAB104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\obj\Debug\net6.0\RefOutAB104.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\obj\Debug\net6.0\RefOutAB104.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\obj\Debug\net6.0\RefOutAB104.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\obj\Debug\net6.0\RefOutAB104.dll
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\obj\Debug\net6.0\refint\RefOutAB104.dll
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\obj\Debug\net6.0\RefOutAB104.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\obj\Debug\net6.0\RefOutAB104.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\RefOutAB104\RefOutAB104\obj\Debug\net6.0\ref\RefOutAB104.dll
