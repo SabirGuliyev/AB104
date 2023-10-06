@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\bin\Debug\net6.0\ClassObjectInheritence.exe
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\bin\Debug\net6.0\ClassObjectInheritence.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\bin\Debug\net6.0\ClassObjectInheritence.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\bin\Debug\net6.0\ClassObjectInheritence.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\bin\Debug\net6.0\ClassObjectInheritence.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\obj\Debug\net6.0\ClassObjectInheritence.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\obj\Debug\net6.0\ClassObjectInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\obj\Debug\net6.0\ClassObjectInheritence.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\obj\Debug\net6.0\ClassObjectInheritence.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\obj\Debug\net6.0\ClassObjectInheritence.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\obj\Debug\net6.0\ClassObjectInheritence.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\obj\Debug\net6.0\refint\ClassObjectInheritence.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\obj\Debug\net6.0\ClassObjectInheritence.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\obj\Debug\net6.0\ClassObjectInheritence.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ClassObjectInheritence\ClassObjectInheritence\obj\Debug\net6.0\ref\ClassObjectInheritence.dll
