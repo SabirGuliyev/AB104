@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\bin\Debug\net6.0\StringVsStringBuilder.exe
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\bin\Debug\net6.0\StringVsStringBuilder.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\bin\Debug\net6.0\StringVsStringBuilder.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\bin\Debug\net6.0\StringVsStringBuilder.dll
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\bin\Debug\net6.0\StringVsStringBuilder.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\net6.0\StringVsStringBuilder.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\net6.0\StringVsStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\net6.0\StringVsStringBuilder.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\net6.0\StringVsStringBuilder.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\net6.0\StringVsStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\net6.0\StringVsStringBuilder.dll
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\net6.0\refint\StringVsStringBuilder.dll
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\net6.0\StringVsStringBuilder.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\net6.0\StringVsStringBuilder.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\net6.0\ref\StringVsStringBuilder.dll
