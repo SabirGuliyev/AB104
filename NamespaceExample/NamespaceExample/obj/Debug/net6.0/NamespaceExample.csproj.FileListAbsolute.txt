@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\obj\Debug\net6.0\NamespaceExample.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\obj\Debug\net6.0\NamespaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\obj\Debug\net6.0\NamespaceExample.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\obj\Debug\net6.0\NamespaceExample.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\obj\Debug\net6.0\NamespaceExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\bin\Debug\net6.0\NamespaceExample.exe
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\bin\Debug\net6.0\NamespaceExample.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\bin\Debug\net6.0\NamespaceExample.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\bin\Debug\net6.0\NamespaceExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\bin\Debug\net6.0\NamespaceExample.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\obj\Debug\net6.0\NamespaceExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\obj\Debug\net6.0\refint\NamespaceExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\obj\Debug\net6.0\NamespaceExample.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\obj\Debug\net6.0\NamespaceExample.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\NamespaceExample\NamespaceExample\obj\Debug\net6.0\ref\NamespaceExample.dll
