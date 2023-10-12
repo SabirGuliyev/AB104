@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\bin\Debug\net6.0\AbstractOverrideSealed.exe
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\bin\Debug\net6.0\AbstractOverrideSealed.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\bin\Debug\net6.0\AbstractOverrideSealed.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\bin\Debug\net6.0\AbstractOverrideSealed.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\bin\Debug\net6.0\AbstractOverrideSealed.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\obj\Debug\net6.0\AbstractOverrideSealed.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\obj\Debug\net6.0\AbstractOverrideSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\obj\Debug\net6.0\AbstractOverrideSealed.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\obj\Debug\net6.0\AbstractOverrideSealed.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\obj\Debug\net6.0\AbstractOverrideSealed.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\obj\Debug\net6.0\AbstractOverrideSealed.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\obj\Debug\net6.0\refint\AbstractOverrideSealed.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\obj\Debug\net6.0\AbstractOverrideSealed.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\obj\Debug\net6.0\AbstractOverrideSealed.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractOverrideSealed\AbstractOverrideSealed\obj\Debug\net6.0\ref\AbstractOverrideSealed.dll
