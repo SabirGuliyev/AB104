@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\bin\Debug\net6.0\InterfaceStatic.exe
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\bin\Debug\net6.0\InterfaceStatic.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\bin\Debug\net6.0\InterfaceStatic.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\bin\Debug\net6.0\InterfaceStatic.dll
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\bin\Debug\net6.0\InterfaceStatic.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\obj\Debug\net6.0\InterfaceStatic.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\obj\Debug\net6.0\InterfaceStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\obj\Debug\net6.0\InterfaceStatic.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\obj\Debug\net6.0\InterfaceStatic.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\obj\Debug\net6.0\InterfaceStatic.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\obj\Debug\net6.0\InterfaceStatic.dll
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\obj\Debug\net6.0\refint\InterfaceStatic.dll
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\obj\Debug\net6.0\InterfaceStatic.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\obj\Debug\net6.0\InterfaceStatic.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceStatic\InterfaceStatic\obj\Debug\net6.0\ref\InterfaceStatic.dll
