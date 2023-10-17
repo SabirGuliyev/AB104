@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\bin\Debug\net6.0\NullableStructIndexer.exe
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\bin\Debug\net6.0\NullableStructIndexer.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\bin\Debug\net6.0\NullableStructIndexer.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\bin\Debug\net6.0\NullableStructIndexer.dll
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\bin\Debug\net6.0\NullableStructIndexer.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\obj\Debug\net6.0\NullableStructIndexer.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\obj\Debug\net6.0\NullableStructIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\obj\Debug\net6.0\NullableStructIndexer.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\obj\Debug\net6.0\NullableStructIndexer.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\obj\Debug\net6.0\NullableStructIndexer.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\obj\Debug\net6.0\NullableStructIndexer.dll
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\obj\Debug\net6.0\refint\NullableStructIndexer.dll
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\obj\Debug\net6.0\NullableStructIndexer.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\obj\Debug\net6.0\NullableStructIndexer.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexer\NullableStructIndexer\obj\Debug\net6.0\ref\NullableStructIndexer.dll
