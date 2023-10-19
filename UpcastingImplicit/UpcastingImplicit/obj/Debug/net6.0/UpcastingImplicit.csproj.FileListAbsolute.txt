@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\bin\Debug\net6.0\UpcastingImplicit.exe
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\bin\Debug\net6.0\UpcastingImplicit.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\bin\Debug\net6.0\UpcastingImplicit.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\bin\Debug\net6.0\UpcastingImplicit.dll
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\bin\Debug\net6.0\UpcastingImplicit.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\obj\Debug\net6.0\UpcastingImplicit.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\obj\Debug\net6.0\UpcastingImplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\obj\Debug\net6.0\UpcastingImplicit.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\obj\Debug\net6.0\UpcastingImplicit.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\obj\Debug\net6.0\UpcastingImplicit.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\obj\Debug\net6.0\UpcastingImplicit.dll
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\obj\Debug\net6.0\refint\UpcastingImplicit.dll
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\obj\Debug\net6.0\UpcastingImplicit.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\obj\Debug\net6.0\UpcastingImplicit.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingImplicit\UpcastingImplicit\obj\Debug\net6.0\ref\UpcastingImplicit.dll
