@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\bin\Debug\net6.0\GenericTypeCollections.exe
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\bin\Debug\net6.0\GenericTypeCollections.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\bin\Debug\net6.0\GenericTypeCollections.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\bin\Debug\net6.0\GenericTypeCollections.dll
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\bin\Debug\net6.0\GenericTypeCollections.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\obj\Debug\net6.0\GenericTypeCollections.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\obj\Debug\net6.0\GenericTypeCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\obj\Debug\net6.0\GenericTypeCollections.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\obj\Debug\net6.0\GenericTypeCollections.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\obj\Debug\net6.0\GenericTypeCollections.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\obj\Debug\net6.0\GenericTypeCollections.dll
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\obj\Debug\net6.0\refint\GenericTypeCollections.dll
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\obj\Debug\net6.0\GenericTypeCollections.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\obj\Debug\net6.0\GenericTypeCollections.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\GenericTypeCollections\GenericTypeCollections\obj\Debug\net6.0\ref\GenericTypeCollections.dll

@@ -73,22 +73,22 @@ namespace NullableStructIndexer
             #endregion
             #region Indexer
 
-            //ListInt listInt=new ListInt(10);
-            ////listInt[15] = 30;
-            //ListInt listInt1 = new ListInt(1, 2, 3, 4, 5, 6, 77, 88);
-            ////Console.WriteLine(listInt[15]);
+            CustomList<int> listInt = new CustomList<int>(10);
+            //listInt[15] = 30;
+            CustomList<int> listInt1 = new CustomList<int>(1, 2, 3, 4, 5, 6, 77, 88);
+            //Console.WriteLine(listInt[15]);
 
-            //for (int i = 0; i < listInt1.Length; i++)
-            //{
-            //    Console.WriteLine(listInt1[i]);
-            //}
+            for (int i = 0; i < listInt1.Length; i++)
+            {
+                Console.WriteLine(listInt1[i]);
+            }
 
-            //listInt1.Add(1);
+            listInt1.Add(1);
 
 
-            //List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6 };
-            //numbers.Add(1);
-            //numbers.AddRange()
+            List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6 };
+            numbers.Add(1);
+           
 
             Student student = new Student { Name = "Sabuhi", Surname = "Camalzade", Fin = "c",Gender=Gender.Male };
             //Student student2 = new Student { Name = "Zulfiyya", Surname = "Camalzade", Fin = "c1" };
@@ -112,7 +112,19 @@ namespace NullableStructIndexer
             //else
             //{
             //    Console.WriteLine("Bele telebe movcud deyil");
+
             //} 
+
+
+
+
+
+
+
+
+            //CustomList<string> customList = new CustomList<string>("Salam", "Hello", "Halo", "Shalom");
+
+            //CustomList<char> customList1 = new CustomList<char>('a', 'v', 'g');
 
             #endregion
 

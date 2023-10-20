@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sabir\\Desktop\\AB104\\NullableStructIndexer\\NullableStructIndexer\\NullableStructIndexer.csproj": {}
+    "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\GenericTypeCollections\\GenericTypeCollections\\GenericTypeCollections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sabir\\Desktop\\AB104\\NullableStructIndexer\\NullableStructIndexer\\NullableStructIndexer.csproj": {
+    "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\GenericTypeCollections\\GenericTypeCollections\\GenericTypeCollections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sabir\\Desktop\\AB104\\NullableStructIndexer\\NullableStructIndexer\\NullableStructIndexer.csproj",
-        "projectName": "NullableStructIndexer",
-        "projectPath": "C:\\Users\\sabir\\Desktop\\AB104\\NullableStructIndexer\\NullableStructIndexer\\NullableStructIndexer.csproj",
+        "projectUniqueName": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\GenericTypeCollections\\GenericTypeCollections\\GenericTypeCollections.csproj",
+        "projectName": "GenericTypeCollections",
+        "projectPath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\GenericTypeCollections\\GenericTypeCollections\\GenericTypeCollections.csproj",
         "packagesPath": "C:\\Users\\sabir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sabir\\Desktop\\AB104\\NullableStructIndexer\\NullableStructIndexer\\obj\\",
+        "outputPath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\GenericTypeCollections\\GenericTypeCollections\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
