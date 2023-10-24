@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\bin\Debug\net6.0\ThreadTask.exe
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\bin\Debug\net6.0\ThreadTask.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\bin\Debug\net6.0\ThreadTask.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\bin\Debug\net6.0\ThreadTask.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\bin\Debug\net6.0\ThreadTask.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\obj\Debug\net6.0\ThreadTask.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\obj\Debug\net6.0\ThreadTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\obj\Debug\net6.0\ThreadTask.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\obj\Debug\net6.0\ThreadTask.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\obj\Debug\net6.0\ThreadTask.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\obj\Debug\net6.0\ThreadTask.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\obj\Debug\net6.0\refint\ThreadTask.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\obj\Debug\net6.0\ThreadTask.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\obj\Debug\net6.0\ThreadTask.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTask\ThreadTask\obj\Debug\net6.0\ref\ThreadTask.dll
