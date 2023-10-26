@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.exe
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\refint\SolidPrinciples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SolidPrinciples\SolidPrinciples\obj\Debug\net6.0\ref\SolidPrinciples.dll

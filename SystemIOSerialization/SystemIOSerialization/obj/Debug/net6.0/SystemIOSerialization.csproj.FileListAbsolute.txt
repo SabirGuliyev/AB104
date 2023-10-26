@@ -1,0 +1,17 @@
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\bin\Debug\net6.0\SystemIOSerialization.exe
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\bin\Debug\net6.0\SystemIOSerialization.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\bin\Debug\net6.0\SystemIOSerialization.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\bin\Debug\net6.0\SystemIOSerialization.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\bin\Debug\net6.0\SystemIOSerialization.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\obj\Debug\net6.0\SystemIOSerialization.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\obj\Debug\net6.0\SystemIOSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\obj\Debug\net6.0\SystemIOSerialization.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\obj\Debug\net6.0\SystemIOSerialization.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\obj\Debug\net6.0\SystemIOSerialization.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\obj\Debug\net6.0\SystemIOSerialization.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\obj\Debug\net6.0\refint\SystemIOSerialization.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\obj\Debug\net6.0\SystemIOSerialization.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\obj\Debug\net6.0\SystemIOSerialization.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\obj\Debug\net6.0\ref\SystemIOSerialization.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerialization\SystemIOSerialization\obj\Debug\net6.0\SystemIOSerialization.csproj.CopyComplete
