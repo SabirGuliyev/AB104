@@ -1,0 +1,23 @@
+p {
+    color: aqua;
+}
+.red-text{
+    color: red;
+}
+
+#p1{
+    color: blueviolet;
+}
+.green-text{
+    color: green;
+}
+
+h1{
+    color: brown;
+}
+
+
+.first-div{
+
+    border: 1px dashed black;
+}
