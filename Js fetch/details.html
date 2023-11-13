@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Details</h1>
+
+    <div id="div1">
+
+       
+       
+    </div>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+      
+      var div=document.getElementById("div1")
+
+     
+      let id= window.location.search.slice(4)
+      
+      axios.get(`https://api.tvmaze.com/shows/${id}`).then(response=>{
+
+        div.innerHTML=`
+        <h1>${response.data.name}</h1>
+        <span>${response.data.rating.average}</span> <br>
+        <img src="${response.data.image.medium}" alt="${response.data.name}">
+        ${response.data.summary}`
+      })
+
+
+    </script>
+</body>
+</html>

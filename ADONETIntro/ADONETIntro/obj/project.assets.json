@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ADONETIntro\\ADONETIntro\\ADONETIntro.csproj",
+      "projectUniqueName": "C:\\Users\\sabir\\Desktop\\AB104\\ADONETIntro\\ADONETIntro\\ADONETIntro.csproj",
       "projectName": "ADONETIntro",
-      "projectPath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ADONETIntro\\ADONETIntro\\ADONETIntro.csproj",
+      "projectPath": "C:\\Users\\sabir\\Desktop\\AB104\\ADONETIntro\\ADONETIntro\\ADONETIntro.csproj",
       "packagesPath": "C:\\Users\\sabir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ADONETIntro\\ADONETIntro\\obj\\",
+      "outputPath": "C:\\Users\\sabir\\Desktop\\AB104\\ADONETIntro\\ADONETIntro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

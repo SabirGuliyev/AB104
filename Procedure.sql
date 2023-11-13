@@ -16,6 +16,8 @@ GroupId INT REFERENCES Groups(Id),
 IsDeleted BIT
 )
 
+INSERT INTO Students VALUES('Salam','Salamov',90,1,0)
+
 ALTER TABLE Students ADD IsDeleted2 BIT NOT NULL
 
 --CREATE VIEW GetStudentsPoint

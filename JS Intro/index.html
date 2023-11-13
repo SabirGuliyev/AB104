@@ -8,9 +8,46 @@
 </head>
 </head>
 <body>
-    <input class="test" type="text">
+
+
+    
+    <!-- <input class="test" type="text"> -->
     <div class="container">
+
+        <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Launch demo modal
+  </button>
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+         <h1>Create Band</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <form>
+                <input class="band-name" type="text"  placeholder="Name">
+                <br>
+                <input class="band-country" type="text" placeholder="Country">
+                <br>
+                <input class="band-img" type="text" placeholder="Image Source">
+              </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button type="button" class="create-btn btn btn-primary">Create</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
         <div class="row">
+
         </div>
     </div>
 
