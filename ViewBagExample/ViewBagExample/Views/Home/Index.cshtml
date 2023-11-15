@@ -1,0 +1,51 @@
+﻿
+
+
+@model List<Student>
+
+@{
+    TempData["Name"] = "Sabuhi";
+
+    
+    
+}
+
+
+@*<h3>@TempData["Name"]</h3>*@
+
+<p>Index</p>
+
+
+<ul>
+
+    @foreach (Student item in Model)
+    {
+        <li>@item.Name</li>
+    }
+
+</ul>
+
+
+
+
+
+
+
+
+
+@*<ul>
+    
+    @foreach (Student student in ViewBag.Students)
+    {
+        <li>@student.Id @student.Name @student.Surname</li>
+    }
+
+
+    @foreach (Student item in ViewData["Students"] as List<Student>)
+    {
+        
+        <li>  @item.Name @item.Surname</li>
+    }
+
+
+</ul>*@
