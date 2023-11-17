@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ProniaAB104\\ProniaAB104\\ProniaAB104.csproj": {}
+    "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\ProniaAB104.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ProniaAB104\\ProniaAB104\\ProniaAB104.csproj": {
+    "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\ProniaAB104.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ProniaAB104\\ProniaAB104\\ProniaAB104.csproj",
+        "projectUniqueName": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\ProniaAB104.csproj",
         "projectName": "ProniaAB104",
-        "projectPath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ProniaAB104\\ProniaAB104\\ProniaAB104.csproj",
+        "projectPath": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\ProniaAB104.csproj",
         "packagesPath": "C:\\Users\\sabir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ProniaAB104\\ProniaAB104\\obj\\",
+        "outputPath": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
