@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mcv5MQEy6hn5kIimIc6sOJQYX+JIs1EFt+nG0bGGVYY=",
+  "Hash": "cADf3sswcMljShlRy+4VjwJSXRB068G0225ExLe+RJk=",
   "Source": "ProniaAB104",
   "BasePath": "_content/ProniaAB104",
   "Mode": "Default",
@@ -2805,6 +2805,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\dark.png"
     },
     {
+      "Identity": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\website-images\\Narcissus.jfif",
+      "SourceId": "ProniaAB104",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\",
+      "BasePath": "_content/ProniaAB104",
+      "RelativePath": "assets/images/website-images/Narcissus.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Narcissus.jfif"
+    },
+    {
       "Identity": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\website-images\\quotation.png",
       "SourceId": "ProniaAB104",
       "SourceType": "Discovered",
@@ -2820,6 +2837,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\quotation.png"
+    },
+    {
+      "Identity": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\website-images\\Rose.jfif",
+      "SourceId": "ProniaAB104",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\",
+      "BasePath": "_content/ProniaAB104",
+      "RelativePath": "assets/images/website-images/Rose.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Rose.jfif"
     },
     {
       "Identity": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\website-images\\service.png",
