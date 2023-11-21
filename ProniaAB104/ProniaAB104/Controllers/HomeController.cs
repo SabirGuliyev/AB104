@@ -20,7 +20,7 @@ namespace ProniaAB104.Controllers
             
             List<Slide> slides=_context.Slides.OrderBy(s=>s.Order).Take(2).ToList();
 
-            List<Product> products=_context.Products.Include(p=>p.ProductImages).ToList();
+            List<Product> products=_context.Products.Include(p=>p.ProductImages.Where(pi=>pi.IsPrimary!=null)).ToList();
             //_context.Slides.AddRange(slides);
             //_context.SaveChanges();
 

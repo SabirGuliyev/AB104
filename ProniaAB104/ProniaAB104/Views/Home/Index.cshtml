@@ -2287,7 +2287,7 @@
                         {
                                  <div class="swiper-slide product-item">
                     <div class="product-img">
-                      <a href="shop.html">
+                      <a asp-controller="Product" asp-action="Detail" asp-route-id="@product.Id">
                         <img
                           class="primary-img"
                           src="~/assets/images/website-images/@product.ProductImages.FirstOrDefault(pi=>pi.IsPrimary==true).Url"
@@ -2348,7 +2348,7 @@
                       </div>
                     </div>
                     <div class="product-content">
-                      <a class="product-name" href="shop.html"
+                      <a class="product-name" asp-controller="Product" asp-action="Detail" asp-route-id="@product.Id"
                         >@product.Name</a
                       >
                       <div class="price-box pb-1">

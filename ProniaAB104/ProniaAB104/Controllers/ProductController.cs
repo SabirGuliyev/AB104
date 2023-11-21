@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using ProniaAB104.DAL;
 using ProniaAB104.Models;
+using ProniaAB104.ViewModels;
 
 namespace ProniaAB104.Controllers
 {
@@ -21,17 +22,28 @@ namespace ProniaAB104.Controllers
         {
             if (id <= 0) return BadRequest();
           
-            Product product = _context.Products.Include(p=>p.Category).FirstOrDefault(p=>p.Id==id);
+            Product product = _context.Products
+                .Include(p=>p.Category)
+                .Include(p=>p.ProductImages)
+                .Include(p=>p.ProductTags).ThenInclude(pt=>pt.Tag)
+                .FirstOrDefault(p=>p.Id==id);
 
-            List<Product> products = _context.Products.Where(p => p.CategoryId == product.CategoryId).ToList();
+
+           
             if (product is null) return NotFound();
+
+            List<Product> products = _context.Products
+                .Include(p=>p.ProductImages.Where(pi=>pi.IsPrimary!=null))
+                .Where(p => p.CategoryId == product.CategoryId && p.Id!=product.Id)
+                .ToList();
            
+            DetailVM detailVM = new DetailVM
+            {
+                Product = product,
+                RelatedProducts = products,
+            };
 
-
-           
-
-
-            return View(product);
+            return View(detailVM);
         }
     }
 }

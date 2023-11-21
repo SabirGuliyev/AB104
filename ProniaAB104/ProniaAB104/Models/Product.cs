@@ -15,5 +15,7 @@ namespace ProniaAB104.Models
         public Category Category { get; set; }
         public List<ProductImage>? ProductImages { get; set; }
 
+        public List<ProductTag>? ProductTags { get; set; }
+
     }
 }
