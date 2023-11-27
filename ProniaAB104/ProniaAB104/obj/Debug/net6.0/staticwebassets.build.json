@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ea30BPm5IE1W6N9Vm48FWjQrUM2mHl4DdfMN2r9CwEU=",
+  "Hash": "EW+9Rac/DUWZT48hnNRdyt1ZVUueuyAlslPFLVkaI6U=",
   "Source": "ProniaAB104",
   "BasePath": "_content/ProniaAB104",
   "Mode": "Default",
@@ -3196,6 +3196,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sidebar\\banner\\1-270x300.jpg"
     },
     {
+      "Identity": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\slider\\078a5c57-5d50-4edf-981d-898bd39539e7Rose.jfif",
+      "SourceId": "ProniaAB104",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\",
+      "BasePath": "_content/ProniaAB104",
+      "RelativePath": "assets/images/slider/078a5c57-5d50-4edf-981d-898bd39539e7Rose.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\078a5c57-5d50-4edf-981d-898bd39539e7Rose.jfif"
+    },
+    {
       "Identity": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\slider\\1-1-310x220.jpg",
       "SourceId": "ProniaAB104",
       "SourceType": "Discovered",
@@ -3245,6 +3262,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\bg\\2-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\slider\\e40d12dc-0d0c-4e0a-9d74-7520500de8a7Narcissus.jfif",
+      "SourceId": "ProniaAB104",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\",
+      "BasePath": "_content/ProniaAB104",
+      "RelativePath": "assets/images/slider/e40d12dc-0d0c-4e0a-9d74-7520500de8a7Narcissus.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\e40d12dc-0d0c-4e0a-9d74-7520500de8a7Narcissus.jfif"
     },
     {
       "Identity": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\slider\\inner-img\\1-1-524x617.png",
@@ -3313,23 +3347,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\slide 2.jfif"
-    },
-    {
-      "Identity": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\slider\\slide 3.jfif",
-      "SourceId": "ProniaAB104",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\",
-      "BasePath": "_content/ProniaAB104",
-      "RelativePath": "assets/images/slider/slide 3.jfif",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\slide 3.jfif"
     },
     {
       "Identity": "C:\\Users\\sabir\\Desktop\\AB104\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\slider\\slide 4.jfif",
