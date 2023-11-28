@@ -32,6 +32,9 @@
                                         <th>
                                             Category
                                         </th>
+                                         <th>
+                                            Tags
+                                        </th>
                                         <th>
                                             Settings
                                         </th>
@@ -58,6 +61,18 @@
                                             </td>
                                              <td>
                                               @product.Category.Name
+                                            </td>
+                                             <td>
+                                                 <ul>
+                                                      @foreach(ProductTag proTag in product.ProductTags)
+                                                {
+                                                    <li>
+                                                          @proTag.Tag.Name
+                                                    </li>
+                                                  
+                                                }
+                                                 </ul>
+                                               
                                             </td>
                                             <td>
                                                 <a asp-action="update" asp-controller="product" asp-route-id="@product.Id" class="btn btn-warning btn-info"> <i class="mdi mdi-pencil"></i> </a>
