@@ -22,7 +22,7 @@
             return false;
         }
 
-        public static async Task<string> CreateFile(this IFormFile file,string root,params string[] folders)
+        public static async Task<string> CreateFileAsync(this IFormFile file,string root,params string[] folders)
         {
             string fileName = Guid.NewGuid().ToString() + file.FileName;
             string path = root;

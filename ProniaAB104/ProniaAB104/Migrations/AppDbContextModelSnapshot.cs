@@ -32,7 +32,8 @@ namespace ProniaAB104.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(25)
+                        .HasColumnType("nvarchar(25)");
 
                     b.HasKey("Id");
 
@@ -122,6 +123,27 @@ namespace ProniaAB104.Migrations
                     b.HasIndex("TagId");
 
                     b.ToTable("ProductTags");
+                });
+
+            modelBuilder.Entity("ProniaAB104.Models.Setting", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Key")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Value")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Settings");
                 });
 
             modelBuilder.Entity("ProniaAB104.Models.Slide", b =>
