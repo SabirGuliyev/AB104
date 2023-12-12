@@ -282,3 +282,8 @@ C:\Users\sabir\Desktop\AB104\ProniaAB104\ProniaAB104\bin\Debug\net6.0\ru\Microso
 C:\Users\sabir\Desktop\AB104\ProniaAB104\ProniaAB104\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sabir\Desktop\AB104\ProniaAB104\ProniaAB104\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sabir\Desktop\AB104\ProniaAB104\ProniaAB104\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sabir\Desktop\AB104\ProniaAB104\ProniaAB104\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sabir\Desktop\AB104\ProniaAB104\ProniaAB104\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sabir\Desktop\AB104\ProniaAB104\ProniaAB104\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sabir\Desktop\AB104\ProniaAB104\ProniaAB104\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sabir\Desktop\AB104\ProniaAB104\ProniaAB104\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

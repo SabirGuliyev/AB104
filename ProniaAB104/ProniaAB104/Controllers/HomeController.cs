@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using ProniaAB104.DAL;
 using ProniaAB104.Models;
+using ProniaAB104.Services;
 using ProniaAB104.ViewModels;
 
 namespace ProniaAB104.Controllers
@@ -9,6 +10,7 @@ namespace ProniaAB104.Controllers
     public class HomeController : Controller
     {
         private readonly AppDbContext _context;
+        
 
         public HomeController(AppDbContext context)
         {
@@ -17,7 +19,7 @@ namespace ProniaAB104.Controllers
         public async Task<IActionResult> Index()
         {
 
-            
+           
             List<Slide> slides=await _context.Slides.OrderBy(s=>s.Order).Take(2).ToListAsync();
 
             List<Product> products=await _context.Products.Include(p=>p.ProductImages.Where(pi=>pi.IsPrimary!=null)).ToListAsync();

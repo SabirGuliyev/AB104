@@ -132,12 +132,22 @@
                                             </button>
                                             <ul class="dropdown-menu"
                                                 aria-labelledby="settingButton">
-                                                <li>
-                                                    <a class="dropdown-item" href="my-account.html">My account</a>
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                    <li>
+                                                        <a class="dropdown-item" href="my-account.html">@User.Identity.Name</a>
+                                                    </li>
+                                                      <li>
+                                                        <a class="dropdown-item" asp-action="logout" asp-controller="account">Log Out</a>
+                                                    </li>
+                                                }
+                                                else
+                                                {
+                                                     <li>
+                                                    <a class="dropdown-item" asp-action="login" asp-controller="account" asp-route-returnurl="@Context.Request.Path.Value">Login</a>
                                                 </li>
-                                                <li>
-                                                    <a class="dropdown-item" href="login-register.html">Login | Register</a>
-                                                </li>
+
+                                                }
                                             </ul>
                                         </li>
                                         <li class="d-none d-lg-block">
@@ -841,7 +851,7 @@
                                     </a>
                                     <div class="product-item_content">
                                         <a class="product-item_title"
-                                     asp-action="detail" asp-controller="product" asp-route-id="@item.Id">@item.Name</a>
+                                       asp-action="detail" asp-controller="product" asp-route-id="@item.Id">@item.Name</a>
                                         <span class="product-item_quantity">@item.Count x $@item.Price</span>
                                     </div>
                                 </li>
